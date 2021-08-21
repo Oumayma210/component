@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+  color:brown;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 18px;
+  padding-top: 50px;
+
+}
+.mima{
+  border-radius: 30px;
+  border: solid brown 3px ;
+ 
+}
